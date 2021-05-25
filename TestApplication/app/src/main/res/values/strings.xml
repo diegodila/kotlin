@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TestApplication</string>
+    <string name="distancia">distancia</string>
+    <string name="total">total</string>
+    <string name="preco">preco1</string>
+    <string name="ppl">ppl</string>
+    <string name="autonomia">autonomia</string>
+    <string name="kmpl">kmpl</string>
+    <string name="calculate">calculate</string>
+    <string name="gasto">seu gasto total será de:</string>
+    <string name="papel">papel</string>
+    <string name="tesoura">tesoura</string>
+    <string name="abacate">abacate</string>
+    <string name="testando1">testando</string>
+    <string name="testando2">testando</string>
+    <string name="testando3">testando</string>
+    <string name="zero">0</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
